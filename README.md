@@ -28,7 +28,7 @@ Curiously diving into data and storytelling through:
 ---
 
 ## 📬 Let’s Connect:
-🌐 [LinkedIn](www.linkedin.com/in/sneha-singh-099b1b26b)  
+🌐 [LinkedIn](https://www.linkedin.com/in/sneha-singh-099b1b26b/)  
 💻 GitHub: `@analyse-with-sneha`
 
 ---
