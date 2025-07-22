@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Sneha Singh 👋
 
-<!--
-**analyse-with-sneha/analyse-with-sneha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year BSc (Maths + CS) Student  
+📈 Aspiring MBA in Business Analytics  
+🐍 Passionate about Python & Power BI  
+💡 On a mission to transform data into decisions!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Data Projects I'm Exploring:
+Curiously diving into data and storytelling through:
+
+- 🛒 **Blinkit Order Analysis** — uncovering customer patterns  
+- 🍽️ **Zomato Food Trends** — visualizing eating habits in metros  
+- 💰 **Personal Budget Tracker** — Excel-powered money insights  
+- 🤖 **Mini Chatbot in Python** — for a fun interactive twist  
+
+*→ Working hands-on and learning as I build these!* 💼
+
+---
+
+## 🚀 Tech Toolkit in Progress:
+- **Python:** Pandas, Matplotlib  
+- **Power BI:** Dashboards, KPIs  
+- **Excel:** Formulas, PivotTables  
+- **Version Control:** Git + GitHub  
+
+---
+
+## 📬 Let’s Connect:
+🌐 [LinkedIn](www.linkedin.com/in/sneha-singh-099b1b26b)  
+💻 GitHub: `@analyse-with-sneha`
+
+---
+
+> *“Start where you are. Use what you have. Do what you can.”* — and I’m doing just that 🚀
